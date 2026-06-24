@@ -1,15 +1,11 @@
-# Jaipur Bus Tracking Simulator
+# Jaipur Bus route planning Simulator
 
 ## Overview
 A C++ project that simulates city bus movement and route planning.
 
 ## Features
-- Graph-based route representation
+- Planning of the journey between two stations
 - Dijkstra shortest path algorithm
-- Bus movement simulation
-- ETA prediction
-- Nearest bus search
-
 ## Technologies Used
 - C++
 - STL
